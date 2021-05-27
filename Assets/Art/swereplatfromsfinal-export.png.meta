@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 7eab9242e6405b647ab870343d39a61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4126498626621492707
+    second: swereplatfromsfinal-export_0
+  - first:
+      213: 7997894278407788375
+    second: swereplatfromsfinal-export_1
+  - first:
+      213: -8394889912640692461
+    second: swereplatfromsfinal-export_2
+  - first:
+      213: -1678829900482548255
+    second: swereplatfromsfinal-export_3
+  - first:
+      213: -6134374642965974604
+    second: swereplatfromsfinal-export_4
+  - first:
+      213: -5686737407833667220
+    second: swereplatfromsfinal-export_5
+  - first:
+      213: -3211005269171571369
+    second: swereplatfromsfinal-export_6
+  - first:
+      213: 6753314192324504754
+    second: swereplatfromsfinal-export_7
+  - first:
+      213: 3053077014754952203
+    second: swereplatfromsfinal-export_8
+  - first:
+      213: 10990816183914515
+    second: swereplatfromsfinal-export_9
+  - first:
+      213: 7556294153536910420
+    second: swereplatfromsfinal-export_10
+  - first:
+      213: -2523791669105655847
+    second: swereplatfromsfinal-export_11
+  - first:
+      213: -908839153315509524
+    second: swereplatfromsfinal-export_12
+  - first:
+      213: 5195209983515151565
+    second: swereplatfromsfinal-export_13
+  - first:
+      213: 201102459983989377
+    second: swereplatfromsfinal-export_14
+  - first:
+      213: -4159960350551486532
+    second: swereplatfromsfinal-export_15
+  - first:
+      213: 5601374531144115447
+    second: swereplatfromsfinal-export_0
+  - first:
+      213: 6821584357699750664
+    second: swereplatfromsfinal-export_1
+  - first:
+      213: 5950701380939642158
+    second: swereplatfromsfinal-export_2
+  - first:
+      213: -5192333594546022944
+    second: swereplatfromsfinal-export_3
+  - first:
+      213: -3970915041815550511
+    second: swereplatfromsfinal-export_4
+  - first:
+      213: 1811594491258997487
+    second: swereplatfromsfinal-export_5
+  - first:
+      213: 3725407247420497438
+    second: swereplatfromsfinal-export_6
+  - first:
+      213: -3601220502057762124
+    second: swereplatfromsfinal-export_7
+  - first:
+      213: -4026267044815919892
+    second: swereplatfromsfinal-export_8
+  - first:
+      213: -5472916081721680814
+    second: swereplatfromsfinal-export_9
+  - first:
+      213: -4446845605977336088
+    second: swereplatfromsfinal-export_10
+  - first:
+      213: -4084781409747976948
+    second: swereplatfromsfinal-export_11
+  - first:
+      213: 4678497472454928668
+    second: swereplatfromsfinal-export_12
+  - first:
+      213: 8674862713935922152
+    second: swereplatfromsfinal-export_13
+  - first:
+      213: -4652103371573908034
+    second: swereplatfromsfinal-export_14
+  - first:
+      213: -407906193159677580
+    second: swereplatfromsfinal-export_15
+  - first:
+      213: -2025519930366821896
+    second: swereplatfromsfinal-export_16
+  - first:
+      213: 6795453749855520798
+    second: swereplatfromsfinal-export_17
+  - first:
+      213: 2749658384139151943
+    second: swereplatfromsfinal-export_18
+  - first:
+      213: 9135915856288128959
+    second: swereplatfromsfinal-export_19
+  - first:
+      213: -4769946931627392652
+    second: swereplatfromsfinal-export_20
+  - first:
+      213: -8109583383771311359
+    second: swereplatfromsfinal-export_21
+  - first:
+      213: 1143660111368582994
+    second: swereplatfromsfinal-export_22
+  - first:
+      213: 7221883272593612162
+    second: swereplatfromsfinal-export_23
+  - first:
+      213: -1477164477237222570
+    second: swereplatfromsfinal-export_24
+  - first:
+      213: 7383586198620409509
+    second: swereplatfromsfinal-export_25
+  - first:
+      213: -2785063733365777945
+    second: swereplatfromsfinal-export_26
+  - first:
+      213: 2570657799496521198
+    second: swereplatfromsfinal-export_27
+  - first:
+      213: -176861736322397907
+    second: swereplatfromsfinal-export_28
+  - first:
+      213: 7863440799645586595
+    second: swereplatfromsfinal-export_29
+  - first:
+      213: 6833531414319673075
+    second: swereplatfromsfinal-export_30
+  - first:
+      213: -873755637155402193
+    second: swereplatfromsfinal-export_31
+  - first:
+      213: 4496081818189788514
+    second: swereplatfromsfinal-export_32
+  - first:
+      213: -6447145073371979120
+    second: swereplatfromsfinal-export_33
+  - first:
+      213: -8569798242337188443
+    second: swereplatfromsfinal-export_34
+  - first:
+      213: -537313638606122525
+    second: swereplatfromsfinal-export_35
+  - first:
+      213: -9120082761229848282
+    second: swereplatfromsfinal-export_36
+  - first:
+      213: -8087020306755790791
+    second: swereplatfromsfinal-export_37
+  - first:
+      213: -3158471738330089990
+    second: swereplatfromsfinal-export_38
+  - first:
+      213: -6779214951626351665
+    second: swereplatfromsfinal-export_39
+  - first:
+      213: -696196647050422718
+    second: swereplatfromsfinal-export_40
+  - first:
+      213: 9122643956155333333
+    second: swereplatfromsfinal-export_41
+  - first:
+      213: 3431443518479646884
+    second: swereplatfromsfinal-export_42
+  - first:
+      213: -3542090787260646181
+    second: swereplatfromsfinal-export_43
+  - first:
+      213: 3372831842939620553
+    second: swereplatfromsfinal-export_44
+  - first:
+      213: 6439992282359221563
+    second: swereplatfromsfinal-export_45
+  - first:
+      213: 3580586875505632332
+    second: swereplatfromsfinal-export_46
+  - first:
+      213: 6933305699410682215
+    second: swereplatfromsfinal-export_47
+  - first:
+      213: -4761211056422599258
+    second: swereplatfromsfinal-export_48
+  - first:
+      213: -4607623284380901192
+    second: swereplatfromsfinal-export_49
+  - first:
+      213: -5505278944640901315
+    second: swereplatfromsfinal-export_50
+  - first:
+      213: 1277926873467991547
+    second: swereplatfromsfinal-export_51
+  - first:
+      213: -2794363463949492203
+    second: swereplatfromsfinal-export_52
+  - first:
+      213: 2727543073598149713
+    second: swereplatfromsfinal-export_53
+  - first:
+      213: -5245677911019354635
+    second: swereplatfromsfinal-export_54
+  - first:
+      213: 3071854877978698902
+    second: swereplatfromsfinal-export_55
+  - first:
+      213: -1116566657336433579
+    second: swereplatfromsfinal-export_56
+  - first:
+      213: 534204609303012094
+    second: swereplatfromsfinal-export_57
+  - first:
+      213: -6531130389719811350
+    second: swereplatfromsfinal-export_58
+  - first:
+      213: 4147692091172722957
+    second: swereplatfromsfinal-export_59
+  - first:
+      213: 1910187654620732384
+    second: swereplatfromsfinal-export_60
+  - first:
+      213: 6739437254649439112
+    second: swereplatfromsfinal-export_61
+  - first:
+      213: -1372594249573765197
+    second: swereplatfromsfinal-export_62
+  - first:
+      213: -1730287799638780614
+    second: swereplatfromsfinal-export_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e3ce65741cbd40800000000000000
+      internalID: 5601374531144115447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0e0eb4d22bae50800000000000000
+      internalID: 6821584357699750664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257557b063259250800000000000000
+      internalID: 5950701380939642158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d1cd1b1021f7b0800000000000000
+      internalID: -5192333594546022944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5245beec974e8c0800000000000000
+      internalID: -3970915041815550511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea0c807793142910800000000000000
+      internalID: 1811594491258997487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1a2a472e43b330800000000000000
+      internalID: 3725407247420497438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24ef09805e50ec0800000000000000
+      internalID: -3601220502057762124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a2ee6473df18c0800000000000000
+      internalID: -4026267044815919892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd47702db4c04b0800000000000000
+      internalID: -5472916081721680814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d6b45b71a942c0800000000000000
+      internalID: -4446845605977336088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d3ade23f0ff47c0800000000000000
+      internalID: -4084781409747976948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192d38d9ac5de040800000000000000
+      internalID: 4678497472454928668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38e6b4dad436870800000000000000
+      internalID: 8674862713935922152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda0f6a1a8607fb0800000000000000
+      internalID: -4652103371573908034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swereplatfromsfinal-export_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479190f7a73d65af0800000000000000
+      internalID: -407906193159677580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
